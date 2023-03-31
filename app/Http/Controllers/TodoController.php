@@ -2,12 +2,16 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Todo;
 use Illuminate\Http\Request;
 
 class TodoController extends Controller
 {
     public function index()
     {
+        $todos = Todo::where('user_id',auth()->user()->id)->get();
+        dd($todos);
+        // dd($todos->toArray());
         return view('todo.index');
     }
 
@@ -15,7 +19,7 @@ class TodoController extends Controller
     {
         return view('todo.create');
     }
-    
+
     public function edit()
     {
         return view('todo.edit');
