@@ -1,9 +1,9 @@
 # Tugas 6
 
 ## 1. Todo Completed
-![Alt text](./screenshot/tugas6/Screenshot%202023-04-16%20231027.png)
-## 2. Todo Uncompleted
 ![Alt text](./screenshot/tugas6/Screenshot%202023-04-16%20231125.png)
+## 2. Todo Uncompleted
+![Alt text](./screenshot/tugas6/Screenshot%202023-04-16%20231027.png)
 ## 3. Todo Edited
 ![Alt text](./screenshot/tugas6/Screenshot%202023-04-17%20090005.png)
 ## 4. Todo Deleted
