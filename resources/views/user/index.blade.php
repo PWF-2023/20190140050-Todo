@@ -7,7 +7,7 @@
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white dark:bg-grey-800 overflow-hidden shadow-sm sm:rounded-lg">
+            <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 {{-- <div class="px-6 pt-6 md:w-1/2 2xl:w-1/3">
                     @if (request('search'))
                         <h2 class="pb-3 text-xl font-semibold leading-tight text-gray-800 dark:text-gray-200">
